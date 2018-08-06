@@ -5,6 +5,6 @@ package com.rtdl.web;
  */
 public class Wet {
     public static void main(String[] args) {
-        System.out.println("雨停了！还在打雷。");
+        System.out.println("雨停了！还在打雷。。");
     }
 }
